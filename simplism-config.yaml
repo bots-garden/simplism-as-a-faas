@@ -1,0 +1,13 @@
+faas-config:
+  wasm-file: "?"
+  wasm-function: "?"
+  http-port: 7000
+  log-level: info
+  service-discovery: true
+  spawn-mode: true
+  http-port-auto: true
+  information: "🚀 spawner service"
+  registry-mode: true
+  registry-path: ./wasm-files
+
+
